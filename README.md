@@ -37,7 +37,7 @@ Los técnicos del banco desean la calculadora para probar diferentes escenarios 
 * Considere que el banco puede cambiar de opinión y pedirle que los aportes ya no sean semanales, sino mensuales, trimestrales o bimestrales. Incluya esta posibilidad en su programa.
 
 # Integrantes
-Carcelén Piedra Erick Eduardo
-Morocho Salazar Luis Ángel
-Pérez Pineda Andrés Alejandro
-Flores Cruz Juan Esteban
+Carcelén Piedra Erick Eduardo  
+Morocho Salazar Luis Ángel  
+Pérez Pineda Andrés Alejandro  
+Flores Cruz Juan Esteban  
